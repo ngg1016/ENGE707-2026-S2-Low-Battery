@@ -5,6 +5,8 @@
 ### Team Members
 - Erin Sandra Christopher
 - Huyin Song
+- Erin Sandra Christopher (24222848)
+- Huyin Song (25331396)
 
 ### Dataset
 Telecom Customer Churn Dataset
