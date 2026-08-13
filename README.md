@@ -3,8 +3,6 @@
 ## ENGE707 Artificial Intelligence Project
 
 ### Team Members
-- Erin Sandra Christopher
-- Huyin Song
 - Erin Sandra Christopher (24222848)
 - Huyin Song (25331396)
 
